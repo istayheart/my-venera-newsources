@@ -1,10 +1,10 @@
 [
   {
     "name": "MangaCopy",
-    "fileName": "mangacopy_web_2_0_1.js",
-    "url": "https://cdn.jsdelivr.net/gh/istayheart/my-venera-newsources@d815c901bf9848d58d4c8c8f43f8ad5879d35785/mangacopy_web_2_0_1.js",
+    "fileName": "mangacopy_web_2_0_2.js",
+    "url": "https://cdn.jsdelivr.net/gh/istayheart/my-venera-newsources@21d0663640eabcda4f8f7721e791d2ca545bf8b8/mangacopy_web_2_0_2.js",
     "key": "mangacopy",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "MangaCopy / mangacopy.com public web source"
   }
 ]
